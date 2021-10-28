@@ -53,7 +53,7 @@ console.log(card)
 
 ### Topup game and buy card
 ```js
-// Topup ame
+// Topup game
 let service_code = "ROV-M"
 let price = "10"
 let ref1 = "334009abc44f21967592ea778af28857"
